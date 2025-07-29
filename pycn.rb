@@ -5,7 +5,7 @@ class Pycn < Formula
   desc "Write Python code in Chinese, just for fun ～(∠・ω< )⌒★"
   homepage "https://github.com/Vincent-the-gamer/pycn"
   url "https://github.com/Vincent-the-gamer/pycn/releases/download/v1.0.2/pycn_darwin_aarch64-1.0.2.tar.gz"
-  sha256 "983b8d45cb375089b39422ccc667ee6fb768dd49187ea6d309d0fcbd85cd97d0"
+  sha256 "e83141a9e3ebfc3de97bc6bc72847b8f48c48b97a7cbf8a2b3c5b4957c274a95"
   license ""
 
   # depends_on "cmake" => :build
